@@ -1,0 +1,6 @@
+F:\Works\WepAppTwoTier_SP\bin\WepAppTwoTier_SP.dll.config
+F:\Works\WepAppTwoTier_SP\bin\WepAppTwoTier_SP.dll
+F:\Works\WepAppTwoTier_SP\bin\WepAppTwoTier_SP.pdb
+F:\Works\WepAppTwoTier_SP\obj\Debug\WepAppTwoTier_SP.csprojAssemblyReference.cache
+F:\Works\WepAppTwoTier_SP\obj\Debug\WepAppTwoTier_SP.dll
+F:\Works\WepAppTwoTier_SP\obj\Debug\WepAppTwoTier_SP.pdb
